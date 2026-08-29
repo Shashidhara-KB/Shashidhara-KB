@@ -49,7 +49,7 @@ Exploratory analytics and visualization project demonstrating Python data prepar
 - Experience across AkzoNobel, EY, Mercedes-Benz, and Safran
 - MSc Data Science and Analytics, University of Leeds
 - Enterprise data experience across finance, FP&A, SAP, SQL Server, Databricks, and Power BI ecosystems
-- Open to Senior Data Engineer and GenAI Engineer opportunities across Europe, the UK, and the UAE
+- Open to Data Engineer and GenAI Engineer opportunities across Europe, the UK, and the UAE
 
 ### Current Focus
 
