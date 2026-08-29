@@ -29,7 +29,7 @@ I build scalable data platforms, governed Power BI and FP&A solutions, and enter
 Production-minded projects demonstrating Azure data engineering and Generative AI patterns.
 
 - **Retail Sales Lakehouse:** Incremental PySpark and Delta Lake pipeline with Medallion Architecture, schema validation, deduplication, data-quality quarantine, Delta `MERGE`, automated tests, and CI validation.
-- **Enterprise Knowledge Assistant:** Azure OpenAI and RAG solution with governed document retrieval, citations, evaluation, and responsible answer handling. *(Planned)*
+- **FP&A Knowledge Assistant:** Azure OpenAI and RAG reference implementation with governed retrieval, evidence thresholds, citations, and responsible-answer handling.
 - **Streaming Operations Monitor:** Near-real-time Spark pipeline with data-quality and operational KPIs. *(Planned)*
 
 #### [Azure Olympics Lakehouse](https://github.com/Shashidhara-KB/Azure)
@@ -43,6 +43,14 @@ Enterprise-style Power BI project with a governed SQL star schema, reusable DAX 
 #### [Zomato Analysis with Power BI](https://github.com/Shashidhara-KB/Zomato-Analysis-with-Python-and-visualization-with-Power-BI)
 
 Exploratory analytics and visualization project demonstrating Python data preparation and Power BI dashboarding.
+
+### Résumé-Aligned Case Studies
+
+- [Finance Reporting Modernization](https://github.com/Shashidhara-KB/data-engineering-genai-portfolio/tree/main/projects/finance-reporting-modernization)
+- [FTE Data Platform & Workforce Analytics](https://github.com/Shashidhara-KB/data-engineering-genai-portfolio/tree/main/projects/fte-workforce-analytics)
+- [FP&A Knowledge Assistant](https://github.com/Shashidhara-KB/data-engineering-genai-portfolio/tree/main/projects/fpa-knowledge-assistant)
+- [Report Navigation & KPI Help Assistant](https://github.com/Shashidhara-KB/data-engineering-genai-portfolio/tree/main/projects/report-kpi-help-assistant)
+- [Budget Data Integration & Automation](https://github.com/Shashidhara-KB/data-engineering-genai-portfolio/tree/main/projects/budget-data-integration-automation)
 
 ### Professional Background
 
