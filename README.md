@@ -1,6 +1,6 @@
 # Hi, I'm Shashidhara KB
 
-## Senior Data Engineer | GenAI Engineer
+## Data Engineer | GenAI Engineer
 
 I build scalable data platforms, governed Power BI and FP&A solutions, and enterprise AI assistants. My background combines 12+ years of analytics and reporting experience with hands-on work in Azure data engineering, lakehouse architecture, financial performance management, and Generative AI.
 
