@@ -1,68 +1,34 @@
-# Hi, I'm Shashidhara KB
+# Hi, I'm Shashidhara
 
-## Data Engineer | GenAI Engineer
+**Data Engineer | GenAI Engineer**
 
-I build scalable data platforms, governed Power BI and FP&A solutions, and enterprise AI assistants. My background combines 12+ years of analytics and reporting experience with hands-on work in Azure data engineering, lakehouse architecture, financial performance management, and Generative AI.
+I have spent most of my career working with finance data, reporting teams and business stakeholders. My strongest area is turning difficult reporting requirements into reliable data pipelines and useful Power BI reports.
 
-### What I Build
+More recently, I have been building hands-on projects with PySpark, Databricks, Delta Lake and retrieval-based AI. This GitHub profile is where I document that work. The examples use synthetic or public data; they do not contain employer data or internal code.
 
-- End-to-end ETL/ELT pipelines using Python, SQL, PySpark, and Azure Databricks
-- Delta Lake solutions using Bronze, Silver, and Gold architecture
-- Incremental processing, data-quality controls, and business-ready dimensional models
-- Enterprise RAG assistants using Azure OpenAI, LangChain, embeddings, and vector search
-- Governed Power BI solutions for Actual, Budget, Forecast, YTD, YTG, and management variance reporting
+## What I work with
 
-### Core Technology Stack
+- **Data:** Python, SQL, PySpark, Azure Databricks, Delta Lake and ADLS Gen2
+- **Reporting:** Power BI, DAX, Power Query, dimensional modelling and RLS
+- **GenAI:** RAG, Azure OpenAI, LangChain concepts, embeddings and vector search
+- **Business domain:** FP&A, Actual/Budget/Forecast reporting, variance analysis and workforce reporting
 
-**Data Engineering:** Azure Databricks · PySpark · Spark SQL · Delta Lake · ADLS Gen2 · Azure Data Factory · SQL · Python
+## Projects worth starting with
 
-**GenAI:** Azure OpenAI · LangChain · RAG · Prompt Engineering · Embeddings · Vector Search · AI Assistants
+### [Data Engineering & GenAI Portfolio](https://github.com/Shashidhara-KB/data-engineering-genai-portfolio)
 
-**Analytics & FP&A:** Power BI · DAX · Power Query · Dimensional Modelling · RLS · Actual/Budget/Forecast · Variance Analysis
+A collection of small projects based on problems I have worked with: incremental pipelines, finance reporting, budget integration, workforce analytics and knowledge retrieval. Each folder states whether it is a working example, prototype or design case study.
 
-**Engineering Delivery:** Git · CI/CD · REST APIs · Workflow Automation
+### [Azure Olympics Lakehouse](https://github.com/Shashidhara-KB/Azure)
 
-### Featured Portfolio
+A PySpark pipeline built on public Olympics data. It cleans five source files and produces country performance, medal-efficiency and gender-participation outputs. The transformations include tests and run through GitHub Actions.
 
-#### [Data Engineering & GenAI Portfolio](https://github.com/Shashidhara-KB/data-engineering-genai-portfolio)
+### [FP&A Power BI Performance Management](https://github.com/Shashidhara-KB/data-engineering-genai-portfolio/tree/main/projects/fpa-power-bi-performance-management)
 
-Production-minded projects demonstrating Azure data engineering and Generative AI patterns.
+A synthetic FP&A model covering Actual, Budget and Forecast reporting. It includes the SQL star schema, DAX measures, parameterized Power Query and a dynamic RLS pattern.
 
-- **Retail Sales Lakehouse:** Incremental PySpark and Delta Lake pipeline with Medallion Architecture, schema validation, deduplication, data-quality quarantine, Delta `MERGE`, automated tests, and CI validation.
-- **FP&A Knowledge Assistant:** Azure OpenAI and RAG reference implementation with governed retrieval, evidence thresholds, citations, and responsible-answer handling.
-- **Streaming Operations Monitor:** Near-real-time Spark pipeline with data-quality and operational KPIs. *(Planned)*
+## A little about my background
 
-#### [Azure Olympics Lakehouse](https://github.com/Shashidhara-KB/Azure)
+I have 12+ years of experience across AkzoNobel, EY, Mercedes-Benz and Safran, and an MSc in Data Science and Analytics from the University of Leeds.
 
-Azure Databricks-ready PySpark pipeline that standardizes multi-file Olympics data and produces tested country-performance, medal-efficiency, and gender-participation metrics.
-
-#### [FP&A Performance Management in Power BI](https://github.com/Shashidhara-KB/data-engineering-genai-portfolio/tree/main/projects/fpa-power-bi-performance-management)
-
-Enterprise-style Power BI project with a governed SQL star schema, reusable DAX scenario and time-intelligence measures, parameterized Power Query, and dynamic regional RLS.
-
-#### [Zomato Analysis with Power BI](https://github.com/Shashidhara-KB/Zomato-Analysis-with-Python-and-visualization-with-Power-BI)
-
-Exploratory analytics and visualization project demonstrating Python data preparation and Power BI dashboarding.
-
-### Résumé-Aligned Case Studies
-
-- [Finance Reporting Modernization](https://github.com/Shashidhara-KB/data-engineering-genai-portfolio/tree/main/projects/finance-reporting-modernization)
-- [FTE Data Platform & Workforce Analytics](https://github.com/Shashidhara-KB/data-engineering-genai-portfolio/tree/main/projects/fte-workforce-analytics)
-- [FP&A Knowledge Assistant](https://github.com/Shashidhara-KB/data-engineering-genai-portfolio/tree/main/projects/fpa-knowledge-assistant)
-- [Report Navigation & KPI Help Assistant](https://github.com/Shashidhara-KB/data-engineering-genai-portfolio/tree/main/projects/report-kpi-help-assistant)
-- [Budget Data Integration & Automation](https://github.com/Shashidhara-KB/data-engineering-genai-portfolio/tree/main/projects/budget-data-integration-automation)
-
-### Professional Background
-
-- Experience across AkzoNobel, EY, Mercedes-Benz, and Safran
-- MSc Data Science and Analytics, University of Leeds
-- Enterprise data experience across finance, FP&A, SAP, SQL Server, Databricks, and Power BI ecosystems
-- Open to Data Engineer and GenAI Engineer opportunities across Europe, the UK, and the UAE
-
-### Current Focus
-
-Designing production-ready data and AI solutions with strong architecture, governance, reliability, testing, and deployment practices.
-
----
-
-Explore my repositories to see practical implementations of modern data engineering and enterprise GenAI patterns.
+I am currently interested in Data Engineer and GenAI Engineer roles where I can combine data engineering with my practical understanding of finance reporting and Power BI.
