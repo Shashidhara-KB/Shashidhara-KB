@@ -1,38 +1,40 @@
 # Hi, I'm Shashidhara
 
-**Power BI Developer | FP&A Analytics | Data Engineering & GenAI Projects**
+**Power BI | Data Engineer | GenAI Engineer**
 
-My main experience is in Power BI and financial reporting: building semantic models, DAX measures, Power Query transformations, dynamic RLS and dashboards for global FP&A teams. I work with Actual, Budget and Forecast reporting, cost analysis, workforce metrics and month-end reporting.
+I have 12 years of experience in reporting, analytics and automation across AkzoNobel, EY, Mercedes-Benz and Safran. Most of my recent work is in Power BI and FP&A: semantic models, DAX, Power Query, row-level security, DirectQuery, gateways and financial reporting for global teams.
 
-Alongside this, I've worked on Databricks and PySpark pipelines to move data preparation upstream from Power BI. I also explore GenAI through small knowledge-retrieval and chatbot prototypes. I distinguish production reporting work from portfolio examples and prototypes.
+I also use Azure Databricks, PySpark, SQL and Delta Lake to prepare reporting data outside Power BI. My GenAI work focuses on knowledge retrieval, KPI guidance and small RAG prototypes. The public projects below use synthetic or public data.
 
-## Main areas
+## What I work on
 
-- **Power BI & FP&A (primary):** Power BI, DAX, Power Query, semantic models, RLS, DirectQuery, performance optimization, financial reporting and stakeholder support
-- **Data Engineering (hands-on):** SQL, Python, Azure Databricks, PySpark, Delta Lake and Bronze/Silver/Gold transformations
-- **GenAI (projects/prototypes):** RAG, Azure OpenAI and LangChain concepts, knowledge assistants and conversational KPI help
+- **Power BI and FP&A:** Actual, Budget and Forecast reporting; cost and workforce analytics; dimensional models; DAX; Power Query; RLS; DirectQuery; report performance and stakeholder support
+- **Data engineering:** Azure Databricks, PySpark, Spark SQL, Delta Lake, medallion layers, data-quality checks, reconciliation and incremental processing
+- **GenAI:** retrieval patterns, RAG concepts, Azure OpenAI, LangChain and Streamlit prototypes
 
-## Featured work
+## Selected projects
 
-### [FP&A Power BI Performance Management](https://github.com/Shashidhara-KB/data-engineering-genai-portfolio/tree/main/projects/fpa-power-bi-performance-management)
-A synthetic FP&A reporting reference implementation with a SQL star schema, DAX measures, parameterized Power Query and dynamic RLS design.
+### [FP&A Performance Management](https://github.com/Shashidhara-KB/data-engineering-genai-portfolio/tree/main/projects/fpa-power-bi-performance-management)
+A Power BI reference model for Actual, Budget and Forecast reporting. It includes a SQL star schema, reusable DAX measures, parameterized Power Query and a dynamic RLS design.
 
 ### [Finance Reporting Modernization](https://github.com/Shashidhara-KB/data-engineering-genai-portfolio/tree/main/projects/finance-reporting-modernization)
-A runnable example of preparing finance data in Bronze, Silver and Gold layers for downstream reporting. Inspired by reporting modernization challenges; it uses synthetic data, not employer data.
+A runnable PySpark example that moves finance transformations into Bronze, Silver and Gold layers, with quarantine handling, reconciliation controls and a Power BI-ready view.
 
-### [FTE & Workforce Analytics](https://github.com/Shashidhara-KB/data-engineering-genai-portfolio/tree/main/projects/fte-workforce-analytics)
-A reference implementation of workforce transformations and reporting measures.
+### [FTE and Workforce Analytics](https://github.com/Shashidhara-KB/data-engineering-genai-portfolio/tree/main/projects/fte-workforce-analytics)
+A workforce-data design covering monthly FTE, headcount movement, source reconciliation and Power BI measures.
+
+### [Budget Data Integration](https://github.com/Shashidhara-KB/data-engineering-genai-portfolio/tree/main/projects/budget-data-integration-automation)
+A SharePoint-to-Azure SQL pattern using staging and final layers, stored procedures, SQL unpivoting and DirectQuery-ready output.
 
 ### [FP&A Knowledge Assistant](https://github.com/Shashidhara-KB/data-engineering-genai-portfolio/tree/main/projects/fpa-knowledge-assistant)
-An early knowledge-retrieval prototype for onboarding and finance process questions; not presented as a production AI deployment.
+A retrieval prototype for finance process and KPI questions. The README clearly separates what is implemented today from the planned RAG application.
 
-### [Full project portfolio](https://github.com/Shashidhara-KB/data-engineering-genai-portfolio)
-Additional finance data integration, KPI help and lakehouse examples, with status labels for each.
+[View the full portfolio](https://github.com/Shashidhara-KB/data-engineering-genai-portfolio)
 
 ## Background
 
-Experience across AkzoNobel, EY, Mercedes-Benz and Safran, with an MSc in Data Science and Analytics from the University of Leeds.
+- MSc Data Science and Analytics, University of Leeds
+- Experience working with stakeholders across the UK, US, Germany, the Netherlands and Egypt
+- Open to international opportunities requiring employer-sponsored work authorization
 
-I'm most interested in Power BI Developer, BI Engineer and Analytics Engineer roles, and in opportunities to grow my Data Engineering and GenAI experience.
-
-*All examples use synthetic or public data; no confidential employer code or datasets are shared.*
+*No confidential employer data, code, credentials or report designs are included in these repositories.*
